@@ -1,0 +1,11 @@
+C:\Users\Nick\source\repos\c_sharp\004_Csharp_ASCII\004_Csharp_ASCII\004_Csharp_ASCII\bin\Debug\netcoreapp2.1\004_Csharp_ASCII.deps.json
+C:\Users\Nick\source\repos\c_sharp\004_Csharp_ASCII\004_Csharp_ASCII\004_Csharp_ASCII\bin\Debug\netcoreapp2.1\004_Csharp_ASCII.runtimeconfig.json
+C:\Users\Nick\source\repos\c_sharp\004_Csharp_ASCII\004_Csharp_ASCII\004_Csharp_ASCII\bin\Debug\netcoreapp2.1\004_Csharp_ASCII.runtimeconfig.dev.json
+C:\Users\Nick\source\repos\c_sharp\004_Csharp_ASCII\004_Csharp_ASCII\004_Csharp_ASCII\bin\Debug\netcoreapp2.1\004_Csharp_ASCII.dll
+C:\Users\Nick\source\repos\c_sharp\004_Csharp_ASCII\004_Csharp_ASCII\004_Csharp_ASCII\bin\Debug\netcoreapp2.1\004_Csharp_ASCII.pdb
+C:\Users\Nick\source\repos\c_sharp\004_Csharp_ASCII\004_Csharp_ASCII\004_Csharp_ASCII\obj\Debug\netcoreapp2.1\004_Csharp_ASCII.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\c_sharp\004_Csharp_ASCII\004_Csharp_ASCII\004_Csharp_ASCII\obj\Debug\netcoreapp2.1\004_Csharp_ASCII.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\c_sharp\004_Csharp_ASCII\004_Csharp_ASCII\004_Csharp_ASCII\obj\Debug\netcoreapp2.1\004_Csharp_ASCII.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\c_sharp\004_Csharp_ASCII\004_Csharp_ASCII\004_Csharp_ASCII\obj\Debug\netcoreapp2.1\004_Csharp_ASCII.AssemblyInfo.cs
+C:\Users\Nick\source\repos\c_sharp\004_Csharp_ASCII\004_Csharp_ASCII\004_Csharp_ASCII\obj\Debug\netcoreapp2.1\004_Csharp_ASCII.dll
+C:\Users\Nick\source\repos\c_sharp\004_Csharp_ASCII\004_Csharp_ASCII\004_Csharp_ASCII\obj\Debug\netcoreapp2.1\004_Csharp_ASCII.pdb
